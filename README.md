@@ -39,11 +39,8 @@ Current version is 1.1.0
 + ⭐️splash screen
 
 
-
-
-
-
-
+#    
+#   
 
 
 ![Screenshot_2022 03 27_11 59 06 902](https://user-images.githubusercontent.com/86925273/160274934-e46eb604-e919-4525-9bb8-a8c3b5eb319b.png)
@@ -70,8 +67,7 @@ Current version is 1.1.0
 #   
 
 + ⭐️Description page
-#    
-#   
+
 
 
 ![Screenshot_2022 03 27_11 58 15 301](https://user-images.githubusercontent.com/86925273/160274995-86585bdb-86fb-4c90-a195-574d67895f71.png)
