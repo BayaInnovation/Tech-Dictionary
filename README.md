@@ -29,10 +29,6 @@ This application has a dictionary structure.
 Current version is 1.1.0
 
 
-# ✨Apk file
-
-
-
 
 # ✨Screenshoot
 
